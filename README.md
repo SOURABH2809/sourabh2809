@@ -86,9 +86,6 @@ I'm a MERN (MongoDB, Express.js, React.js, Node.js) Developer with a passion for
 <a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a> 
 <a href="" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Facebook.png" alt="facebook" height="50" width="50" /></a> 
 </p>
-<div align="center">
-   <img src="https://visitcount.itsvg.in/api?id=sourabh2809&icon=0&color=0">
-</div>
 
 
 <!--horizontal divider(gradiant)-->
