@@ -22,7 +22,7 @@
 ## <b><img src="https://media.giphy.com/media/m6OomwWCojfS8/giphy.gif" width="38"> About Me</b>
 
 <div>
-I'm a MERN (MongoDB, Express.js, React.js, Node.js) Developer with a passion for crafting scalable and efficient Web Applications. My journey in Web Development began with a fascination for creating interactive and user-friendly experiences. Over time, I've honed my skills in the MERN stack, constantly striving to improve and learn more. I'm enthusiastic about contributing to open source projects and collaborating with like-minded developers. I'm eager to explore new opportunities where I can apply my skills, learn from others, and make meaningful contributions to the community. If you have any exciting projects or ideas, feel free to reach out.
+I’m a MERN Stack Developer (MongoDB, Express.js, React.js, Node.js) with a passion for building scalable and efficient web applications. My journey in web development began with a deep fascination for creating interactive and user-friendly experiences. I’m enthusiastic about contributing to open-source projects and collaborating with like-minded developers. I’m eager to explore new opportunities where I can apply my skills, learn from others, and make meaningful contributions to the community. If you have any exciting projects or ideas, feel free to reach out.
 <div/>
 <br>
 
